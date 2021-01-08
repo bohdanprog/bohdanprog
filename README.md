@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ### Apple Music Playing 🎧
 
-[<img src="https://help.apple.com/assets/5F43ECBD094622E5243B257A/5F43ECD8094622E5243B2582/pl_PL/790900db60db3658584ebd8c0e52c5c2.png" width="22px alt="Bobby Apple Music" width="350" />](https://music.apple.com/pl/playlist/new-music/pl.u-55D6XPlI8qem95g)
+[<img src="https://help.apple.com/assets/5F43ECBD094622E5243B257A/5F43ECD8094622E5243B2582/pl_PL/790900db60db3658584ebd8c0e52c5c2.png" alt="Bobby Apple Music" width="35" />](https://music.apple.com/pl/playlist/new-music/pl.u-55D6XPlI8qem95g)
 
 ### Connect with me:
 
@@ -47,6 +47,7 @@ Here are some ideas to get you started:
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <br />
 🛠 Tools:
+<br />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -73,6 +74,7 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr -->
 
+[telegram]: https://t.me/bohdanprog
 [instagram]: https://www.instagram.com/arth.bohdan/
 [linkedin]: https://www.linkedin.com/in/bohdan-artiukhov-b07a8218a/
 
