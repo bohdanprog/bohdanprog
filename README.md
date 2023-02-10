@@ -2,7 +2,7 @@
 <h3 align="left">🌱 Software Engineer | [Blocklabs]</h3>
 
 - 📨 How to reach me **bohdanprog@gmail.com**
-- ✉️ telegram: [bohdanprog](https://t.me/@bohdanprog)
+- ✉️ telegram: [bohdanprog](https://t.me/bohdanprog)
 - ⚡ Fun fact: I love sport 🏀 and to read books 📚
 
 <h3 align="left">Connect with me:</h3>
