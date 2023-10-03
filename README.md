@@ -1,5 +1,5 @@
 <h1 align="left">Hi, I'm Bohdan 👋</h1>
-<h3 align="left">🌱 Software Engineer | at Blocklabs</h3>
+<h3 align="left">🌱 Software Engineer</h3>
 
 - 📨 How to reach me **bohdanprog@gmail.com**
 - ✉️ telegram: [bohdanprog](https://t.me/bohdanprog)
